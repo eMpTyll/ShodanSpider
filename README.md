@@ -33,7 +33,7 @@ To run ShodanSpider, you need to have the following installed:
 
 3. Give execute permission to the script:
    ```bash
-   chmod +x shodan_spider.sh
+   chmod +x ShodanSpider
    ```
 
 ## Usage
@@ -51,12 +51,12 @@ Once installed, you can use **ShodanSpider** directly from the terminal with the
 
 - **Search for 'apache' on Shodan without an API key**:
   ```bash
-  ./shodan_spider.sh -q "apache"
+  ./ShodanSpider -q "apache"
   ```
 
 - **Search for 'apache' with a Shodan API key and save results to a file**:
   ```bash
-  ./shodan_spider.sh -q "apache" -k "YOUR_API_KEY" -o "results.txt"
+  ./ShodanSpider -q "apache" -k "YOUR_API_KEY" -o "results.txt"
   ```
 
 ## Contributing
