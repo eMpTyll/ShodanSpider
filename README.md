@@ -41,7 +41,7 @@ To run ShodanSpider, ensure that the following are installed:
 
 4. Optionally, make the script executable globally (optional):
    ```bash
-   sudo cp shodanspider.sh /usr/local/bin/shodanspider
+   sudo cp shodanspider /usr/local/bin/shodanspider
    ```
 
 ## Usage
