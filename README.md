@@ -77,6 +77,8 @@ Once installed, you can use **ShodanSpider v2** directly from the terminal with 
   ```bash
   ./shodanspider -cve "cve-2021-34473" -o "cve_results.txt"
   ```
+  ![image](https://github.com/user-attachments/assets/3792c18e-1650-4ee6-9a0f-37cd2a190ec2)
+
 
 ## Contributing
 
